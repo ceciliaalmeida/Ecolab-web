@@ -1,0 +1,24 @@
+html {
+    font-family: 'Architects Daughter', cursive;
+}
+
+body{
+    background-color: #f0f0f0;
+}
+
+#page-home{
+    height: 100vh;
+background: url('../assets/home-background.svg') no-repeat;
+}
+
+#page-home .content{
+        width: 90%;
+        margin: 0 auto;
+          
+}
+
+#page-home header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
